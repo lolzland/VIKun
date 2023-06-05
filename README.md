@@ -1,3 +1,8 @@
+VIKun - yet another shitty vichan fork.
+scroll down to read that boring readme
+
+
+
 vichan - A lightweight and full featured PHP imageboard.
 ========================================================
 
